@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OmoshiroRecycle</string>
+    <string name="tab_text_1">一覧</string>
+    <string name="tab_text_2">日常</string>
+    <string name="tab_text_3">テレビ・コント</string>
+    <string name="tab_text_4">フレーズ</string>
+    <string name="tab_text_5">写真で一言</string>
+    <string name="tab_text_6">フリースタイル</string>
+</resources>
